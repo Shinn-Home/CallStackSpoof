@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36324.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CallStack_Spoof", "CallStack_Spoof\CallStack_Spoof.vcxproj", "{207A85D6-694C-4F6E-8D5F-20F1AA71A131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207A85D6-694C-4F6E-8D5F-20F1AA71A131}.Debug|x64.ActiveCfg = Debug|x64
+		{207A85D6-694C-4F6E-8D5F-20F1AA71A131}.Debug|x64.Build.0 = Debug|x64
+		{207A85D6-694C-4F6E-8D5F-20F1AA71A131}.Debug|x64.Deploy.0 = Debug|x64
+		{207A85D6-694C-4F6E-8D5F-20F1AA71A131}.Release|x64.ActiveCfg = Release|x64
+		{207A85D6-694C-4F6E-8D5F-20F1AA71A131}.Release|x64.Build.0 = Release|x64
+		{207A85D6-694C-4F6E-8D5F-20F1AA71A131}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21F60E2F-A1FE-4721-AADE-CD9583DEE287}
+	EndGlobalSection
+EndGlobal
