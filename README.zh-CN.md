@@ -1,5 +1,3 @@
-中文 | [English](./README.md)
-
 # 手动伪造调用栈，对抗堆栈回溯，支持R0/R3，附源码
 
 ## 堆栈回溯（Stack Unwind）
